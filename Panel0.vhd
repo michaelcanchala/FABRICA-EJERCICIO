@@ -12,6 +12,7 @@ entity Panel0 is
         c_luz      : out std_logic;
         d_luz      : out std_logic;
         e_alarma   : out std_logic
+		  
     );
 end Panel0;
 
